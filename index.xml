@@ -12,14 +12,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="https://yhao3.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hao 楊尚豪</title>
-      <link>https://yhao3.github.io/me/</link>
-      <pubDate>Mon, 15 Jan 2024 11:30:03 +0000</pubDate>
-      <guid>https://yhao3.github.io/me/</guid>
-      <description>About Me I&amp;rsquo;m currently in love with ☕ Java and 🍃 Spring ecosystem and everything around microservices architecture, 🐳 Docker and automation.
-Open Source Engagement I have contributed to the following open source projects:
-Spring Data Elasticsearch JHipster Side Projects JTracker - The GitLab Issue Management Platform Tools &amp;amp; Languages &amp;amp; Technologies Build As a build tool, I prefer 📦 Maven because it is the most popular build tool for Java projects.</description>
-    </item>
   </channel>
 </rss>
