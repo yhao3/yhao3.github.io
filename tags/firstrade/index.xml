@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hao</title>
-    <link>https://yhao3.github.io/</link>
-    <description>Recent content on Hao</description>
+    <title>Firstrade on Hao</title>
+    <link>https://yhao3.github.io/tags/firstrade/</link>
+    <description>Recent content in Firstrade on Hao</description>
     <image>
       <title>Hao</title>
       <url>https://yhao3.github.io/img/logo.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Apr 2024 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://yhao3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yhao3.github.io/tags/firstrade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firstrade 線上開戶、入金教學（2024 年）達成條件還能領取 25 美元手續費補貼！</title>
       <link>https://yhao3.github.io/posts/firstrade/</link>
@@ -24,15 +24,6 @@ Firstrade 入金 Firstrade 入金流程如下：
 在台灣的銀行開立外幣帳戶 換美金 電匯到 Firstrade 指定的銀行帳戶 但電匯前基本上都需要先到臨櫃辦理（記得攜帶雙證件、外幣存摺及印章）。 以國泰世華商業銀行為例，需要先到分行拿「網路外匯匯出匯款申請書」，並填寫 Firstrade 指定的銀行帳戶資訊。 必填資訊如下：
 國別：USA 幣別：USD 受款人帳號：1617711 受款人名稱：Apex Clearing Corporation 受款銀行名稱：BMO Harris Bank 受款銀行代碼：HATRUS44 Warning
 以上必填的資料基本上每個人都一樣，但還是建議填寫當下到自己後台查看最新資訊。 大概 1-2 個工作天就會完成申請，接著在國泰網銀的「外幣轉出」就可以在「轉入帳號」的選項中看到 USD-1617711.../APEX CLEARING CORPORATION 的選項了！</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://yhao3.github.io/me/</link>
-      <pubDate>Sat, 03 Feb 2024 18:20:03 +0800</pubDate>
-      <guid>https://yhao3.github.io/me/</guid>
-      <description>Hi there 👋, I&amp;rsquo;m Hao.
-I&amp;rsquo;m currently in love with ☕ Java and 🍃 Spring ecosystem and everything around microservices architecture, 🐳 Docker and automation.
-🚀 Check out my latest side project JTracker - The GitLab Issue Management Platform </description>
     </item>
   </channel>
 </rss>
