@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LeetCode on Hao</title>
+    <link>https://yhao3.github.io/tags/leetcode/</link>
+    <description>Recent content in LeetCode on Hao</description>
+    <image>
+      <title>Hao</title>
+      <url>https://yhao3.github.io/img/logo.png</url>
+      <link>https://yhao3.github.io/img/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yhao3.github.io/tags/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LeetCode in IntelliJ IDEA</title>
+      <link>https://yhao3.github.io/posts/leetcode-in-intellij-idea/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0800</pubDate>
+      <guid>https://yhao3.github.io/posts/leetcode-in-intellij-idea/</guid>
+      <description>[!NOTE]
+You can find an example repository on my GitHub: yhao3/leetcode-in-intellij-idea.
+Setting Up LeetCode in IntelliJ IDEA This guide walks you through setting up and using the LeetCode Editor plugin in IntelliJ IDEA, allowing you to practice coding problems directly in IntelliJ IDEA.
+Installing the LeetCode Plugin Start by installing the LeetCode Editor plugin from the JetBrains Marketplace:
+Go to Settings → Plugins → Marketplace Search for &amp;ldquo;LeetCode Editor&amp;rdquo; Click Install Alternatively, you can download it directly from the JetBrains Marketplace</description>
+    </item>
+  </channel>
+</rss>

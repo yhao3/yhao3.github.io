@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Hao</title>
+    <link>https://yhao3.github.io/categories/</link>
+    <description>Recent content in Categories on Hao</description>
+    <image>
+      <title>Hao</title>
+      <url>https://yhao3.github.io/img/logo.png</url>
+      <link>https://yhao3.github.io/img/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yhao3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://yhao3.github.io/categories/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IntelliJ IDEA</title>
+      <link>https://yhao3.github.io/categories/intellij-idea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/categories/intellij-idea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview</title>
+      <link>https://yhao3.github.io/categories/interview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/categories/interview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LeetCode</title>
+      <link>https://yhao3.github.io/categories/leetcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/categories/leetcode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment</title>
+      <link>https://yhao3.github.io/categories/investment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/categories/investment/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

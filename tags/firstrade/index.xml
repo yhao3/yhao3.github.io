@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firstrade on Hao</title>
+    <link>https://yhao3.github.io/tags/firstrade/</link>
+    <description>Recent content in Firstrade on Hao</description>
+    <image>
+      <title>Hao</title>
+      <url>https://yhao3.github.io/img/logo.png</url>
+      <link>https://yhao3.github.io/img/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yhao3.github.io/tags/firstrade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstrade 出金教學，以國泰世華銀行為例（2024 年）</title>
+      <link>https://yhao3.github.io/posts/firstrade-02/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://yhao3.github.io/posts/firstrade-02/</guid>
+      <description>Firstrade 出金教學 進入美股市場已經 6 個月了，在這牛市中也嚐到了不少甜頭，所以上個月第一次試著把一些獲利提領出來，畢竟網路上滿多人反映過 Firstrade 出金的流程不太順利，所以還是要實際走過一次流程才能心安。
+這篇文章就來分享一下 Firstrade 出金的流程。
+設定收款帳戶、填寫出金申請 登入 Firstrade 後台
+點擊左上角的 我的賬戶 &amp;gt; 存款/轉戶
+在 從第一證券提款 區塊中，選取 匯款 若是第一次設定，下方區塊理論上會出現「在您提交匯款申請之前, 請您先提供收款銀行賬戶信息。」的提示，直接點擊 開始 後會需要進行身份驗證，驗證通過後即可開始設定收款帳戶
+接著就是填寫收款帳戶資訊：
+因為我的收款帳戶是使用國泰的外幣帳戶，所以可以直接打開國泰網銀 App 進入外幣帳戶，點擊 帳戶資訊 查看 SWIFT CODE 等資訊 以下是填寫範例： 列舉所有填寫欄位： 電匯類型：選擇 國際 電匯至：選擇 銀行賬戶 電匯金額 ($)：填寫要提領的金額 國際匯款SWIFT代碼：依照您的收款銀行提供的 SWIFT CODE 填寫 收款銀行名稱：CATHAY UNITED BANK （理論上填完 SWIFT CODE 會自動帶入） 收款人銀行賬戶號碼（或IBAN號碼）：填寫您的收款帳戶號碼 重新輸入收款人銀行賬戶號碼：再次填寫您的收款帳戶號碼 收款銀行所在城市：Taipei 收款銀行所在州或省：Taiwan 收款銀行所在國家或地區：TAIWAN （理論上填完 SWIFT CODE 會自動帶入） 收款銀行郵編：10300 需要中間銀行（可選）：不勾選 附言 （如適用）：不填寫 電匯用途：Investment withdrawal 您要保存此銀行信息以備將來使用嗎：選擇 是 輸入完畢後，點擊 預覽 進行最後確認</description>
+    </item>
+    <item>
+      <title>Firstrade 線上開戶、入金教學（2024 年）達成條件還能領取 25 美元手續費補貼！</title>
+      <link>https://yhao3.github.io/posts/firstrade-01/</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0800</pubDate>
+      <guid>https://yhao3.github.io/posts/firstrade-01/</guid>
+      <description>Firstrade 線上開戶 Firstrade 線上開戶非常簡單，如果沒有護照的話使用身分證也可以過審，審核速度也很快，以下是開戶流程：
+進入 Firstrade 官網，點擊右上角的 立即開戶 輸入手機號碼，輸入驗證碼並點擊 繼續 「公民身份」選擇 Taiwan 台灣，「出生國」也選擇 Taiwan 台灣，然後點擊 下一步 上傳護照或身分證正反面照片，然後填寫基本資料，點擊 下一步 填寫基本資料，其中需要留意的是「稅務識別號碼」就是身分證字號，戶籍地務必都使用英文填寫，可以到中華郵政網站翻譯 填寫收入、投資經驗等資料，點擊 下一步 設定登入使用者名稱、密碼與 4 位 PIN 碼，點擊 下一步 最後進行「數位簽名」，就可以點擊 提交開戶申請 了 成功提交後，畫面會顯示 8 位數字的帳號，務必保存好此帳號，未來匯錢時必須在匯款附言填寫此帳號 接著就是等待審核，基本上 1-2 個工作天就會有回覆，我自己是在 3/28 下午申請，3/29 凌晨就收到審核通過的通知。
+Firstrade 入金 Firstrade 入金流程如下：
+在台灣的銀行開立外幣帳戶 換美金 電匯到 Firstrade 指定的銀行帳戶 但電匯前基本上都需要先到臨櫃辦理（記得攜帶雙證件、外幣存摺及印章）。 以國泰世華商業銀行為例，需要先到分行拿「網路外匯匯出匯款申請書」，並填寫 Firstrade 指定的銀行帳戶資訊。 必填資訊如下：
+國別：USA 幣別：USD 受款人帳號：1617711 受款人名稱：Apex Clearing Corporation 受款銀行名稱：BMO Harris Bank 受款銀行代碼：HATRUS44 Warning
+以上必填的資料基本上每個人都一樣，但還是建議填寫當下到自己後台查看最新資訊。 大概 1-2 個工作天就會完成申請，接著在國泰網銀的「外幣轉出」就可以在「轉入帳號」的選項中看到 USD-1617711.../APEX CLEARING CORPORATION 的選項了！</description>
+    </item>
+  </channel>
+</rss>

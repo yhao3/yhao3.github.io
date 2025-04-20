@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Hao</title>
+    <link>https://yhao3.github.io/tags/</link>
+    <description>Recent content in Tags on Hao</description>
+    <image>
+      <title>Hao</title>
+      <url>https://yhao3.github.io/img/logo.png</url>
+      <link>https://yhao3.github.io/img/logo.png</link>
+    </image>
+    <generator>Hugo -- 0.121.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://yhao3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IntelliJ IDEA</title>
+      <link>https://yhao3.github.io/tags/intellij-idea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/intellij-idea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LeetCode</title>
+      <link>https://yhao3.github.io/tags/leetcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/leetcode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plugin</title>
+      <link>https://yhao3.github.io/tags/plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/plugin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firstrade</title>
+      <link>https://yhao3.github.io/tags/firstrade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/firstrade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Investment</title>
+      <link>https://yhao3.github.io/tags/investment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stock</title>
+      <link>https://yhao3.github.io/tags/stock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/stock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美股</title>
+      <link>https://yhao3.github.io/tags/%E7%BE%8E%E8%82%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yhao3.github.io/tags/%E7%BE%8E%E8%82%A1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
